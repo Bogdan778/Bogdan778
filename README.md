@@ -12,4 +12,4 @@ I'm a student and programmer. I develop my projects with Flutter and Javascript.
 - Javascript
 - HTML
 - CSS
-- ReactJS
+- BLOC
