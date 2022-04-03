@@ -3,7 +3,7 @@
 I'm a student and programmer. I develop my projects with Flutter and Javascript. I have experience in developing mobile and web application
 
 ##### Contacts
-- Telegram: @bubble778
+- Telegram: @Istasha666
 - Discord: Yamamoto#8910
 
 ##### Main Skills
