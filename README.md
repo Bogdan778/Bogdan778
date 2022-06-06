@@ -4,7 +4,7 @@ I'm a student and programmer. I develop my projects with Flutter. I have experie
 
 ##### Contacts
 - Telegram: @Istasha666
-- Discord: Yamamoto#8910
+- Discord: areyoustillawake#8910
 
 ##### Main Skills
 - Flutter
